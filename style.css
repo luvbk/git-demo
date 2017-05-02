@@ -3,6 +3,8 @@ body {
 
 header {
   position: fixed;
+  height: 100px;
+  background-color: red;
    }
   header ul {
     display: -webkit-flex;
@@ -14,7 +16,7 @@ header {
 
 h1 {
   color: red;
-  font-size: 40px; }
+  font-size: 40px;}
 
 h3 {
   color: green; }
