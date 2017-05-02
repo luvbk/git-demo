@@ -1,0 +1,20 @@
+body {
+  background-color: #eaeaea; }
+
+header {
+  position: fixed;
+  right: 10%; }
+  header ul {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+    header ul li {
+      list-style: none;
+      padding: 0 40px; }
+
+h1 {
+  color: red;
+  font-size: 40px; }
+
+h3 {
+  color: green; }
